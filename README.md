@@ -12,6 +12,9 @@ You can install the PyPDF2 library using pip:
 bash:
 pip install PyPDF2
 
+Documentation:
+https://pypdf2.readthedocs.io/en/3.x/
+
 ## Usage
 
 - Clone the repository:
